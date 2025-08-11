@@ -105,7 +105,7 @@ A simple Spring Boot application for managing teacher timetables with conflict v
 ## Sample Data
 
 The application automatically loads sample data:
-- 3 teachers (John Smith, Mary Johnson, David Wilson)
+- 3 teachers (Bijay Panda, Jiwanshu Kumar, Demo Teacher)
 - 3 sample timetable entries for testing
 
 ## Validation Rules
